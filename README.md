@@ -2,7 +2,9 @@
 
 A modern web application for discovering and booking local tours and experiences in Watford and the surrounding towns. Built with React, TypeScript, and Tailwind CSS.
 
-![Watford Tours Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/e08b5719-5af6-49d3-a60d-8e322b3b7daa)
+
+
 
 ## Features
 
