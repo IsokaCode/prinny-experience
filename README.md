@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c6cd9c1-dd8c-4b82-a6be-bc7a57e804c4/deploy-status)](https://app.netlify.com/sites/prinnyexperience/deploys)
 # Prinny Experience
 
 A modern web application for discovering and booking local tours and experiences in Watford and the surrounding towns. Built with React, TypeScript, and Tailwind CSS.
